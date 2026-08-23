@@ -1,0 +1,14 @@
+LTspice 24.1.8 for Windows
+Circuit: C:\Users\Keila\Documents\KEI UTN 2026\TdC2\tareas_semanales\TS5\bonus2_ts5.net
+Start Time: Sun Aug 23 15:53:38 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.179 seconds.
+
+Files loaded:
+C:\Users\Keila\Documents\KEI UTN 2026\TdC2\tareas_semanales\TS5\bonus2_ts5.net
+
